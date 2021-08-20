@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  background-color: black;
+  font-family: 'Roboto', sans-serif;
+}
+
+.ui.main{
+  height: 86vh;
+  display: block;
+  background-color: white;
+}
+.ui.footer{
+  height: 20vh;
+  display: block;
+}
+
+.ui.main.container{
+  padding-top: 5em;
+
+}
+
+
